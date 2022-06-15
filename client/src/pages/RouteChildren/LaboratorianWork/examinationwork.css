@@ -1,0 +1,8 @@
+.examinationrork-box {
+    /* width:200px; */
+    height: 560px;
+    overflow: auto;
+}
+.examinationrork-box .ant-table-pagination{
+    display: none !important
+}

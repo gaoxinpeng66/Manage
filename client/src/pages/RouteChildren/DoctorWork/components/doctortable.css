@@ -1,0 +1,21 @@
+.ExaminationTable-box{
+    margin-left: 20px;
+}
+.ExaminationTable-title{
+    line-height: 80px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(154, 134, 134);
+    font-size: 25px;
+}
+.ExaminationTable-form{
+    margin-top: 50px;
+}
+.ExaminationTable-form .ant-form-item{
+    margin-top: 50px;
+}
+
+.ExaminationTable-form .ant-form-item textarea{
+    padding: 15px;
+    height: 100px;
+}
